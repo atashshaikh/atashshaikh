@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Profile Header" />
+  <img src="https://github.com/atashshaikh/atashshaikh/blob/main/Github_Header-min.png" alt="Profile Header" />
 </p>
 
 # 👋 Hi, I’m Mohammad Atash Shaikh  
