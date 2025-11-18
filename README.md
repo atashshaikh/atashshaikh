@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Profile Header" />
+</p>
+
 # 👋 Hi, I’m Mohammad Atash Shaikh  
 **Business Intelligence Developer/ Data Analyst<br> | Power BI | Tableau | SQL | Python |Excel | Data Analytics**
 
